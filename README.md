@@ -6,7 +6,7 @@
 Gunakan script di bawah untuk menginstall thema dengan sekali copy paste saja.
 
 ```bash
-bash <( curl -s https://raw.githubusercontent.com/Ibzz-Official/AUTO-INSTALL-PANEL-THEME-BY-IBZZ/main/install.sh
+bash <( curl -s https://raw.githubusercontent.com/Ibzz-Official/AUTO-INSTALL-PANEL-THEME-BY-IBZZ/main/install.sh) 
 ```
 
 _Note: jika mengalami kesalahan atau kegagalan, unistall thema terlebih dahulu kemudia intsall kembali themanya._
