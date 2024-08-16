@@ -1,8 +1,15 @@
-# Theme
-JANGAN DIJUAL BELAKAN YE BWANG !!!
-BUTUH LICENSE/PW CHAT TELE GUA
->> t.me/fadhost <<
+# :bird: pterodactyl-auto-installer
 
-Comand Run Install Thema
 
-bash <(curl https://raw.githubusercontent.com/gitfdil1248/thema/main/install.sh)
+## AUTO INSTALLER SCRIPT
+
+Gunakan script di bawah untuk menginstall thema dengan sekali copy paste saja.
+
+```bash
+bash <( curl -s
+```
+
+_Note: jika mengalami kesalahan atau kegagalan, unistall thema terlebih dahulu kemudia intsall kembali themanya._
+
+masih bingung dengan cara pakainya ? [YouTube video](https://www.youtube.com/@foxstore_id
+) berikut adalah tutorial instalasi.
