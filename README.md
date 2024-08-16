@@ -11,5 +11,5 @@ bash <( curl -s
 
 _Note: jika mengalami kesalahan atau kegagalan, unistall thema terlebih dahulu kemudia intsall kembali themanya._
 
-masih bingung dengan cara pakainya ? [YouTube video](https://www.youtube.com/@foxstore_id
+masih bingung dengan cara pakainya ? Chat Whatsapp Admin Kami [Whatsapp Ibzz](https://wa.me/6289601071334)
 ) berikut adalah tutorial instalasi.
