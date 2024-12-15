@@ -92,7 +92,7 @@ install_theme() {
     read -r SELECT_THEME
     case "$SELECT_THEME" in
       1)
-        THEME_URL=$(echo -e "https://github.com/Ibzz-Official/AUTO-INSTALL-PANEL-THEME-BY-IBZZ/main/main/C2.zip")
+        THEME_URL=$(echo -e "https://github.com/Ibzz-Official/AUTO-INSTALL-PANEL-THEME-BY-IBZZ/raw/main/C2.zip")
         break
         ;;
       2)
